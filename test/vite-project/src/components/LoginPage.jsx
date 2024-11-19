@@ -1,14 +1,13 @@
 
 const LoginPage = () => {
-    let Calci = 10 + 10;
     return (        
         <div>
-            <h1>This is Login Page {Calci}</h1>
+            <h1>This is Login Page</h1>
         </div>
     )
 }
 
 export default LoginPage
 
-//we can do calculations, functions, variables etc., in as a JSX properties. 
-//It is the beauty of JSX
+// This is just a static data which renders the output in the web page.
+//In order to make it dynamic we have to use Props.

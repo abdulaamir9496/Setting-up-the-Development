@@ -13,3 +13,6 @@ function App () {
 }
 
 export default App
+
+// This is just a static data which renders the output in the web page.
+//In order to make it dynamic we have to use Props 
